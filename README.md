@@ -108,4 +108,4 @@ Per the project requirements, a live hosted URL has been provided for convenienc
 
 **Architectural Notice for Reviewers:** Because this system is built to comply with 100% local, air-gapped federal security mandates (bypassing outbound cloud API calls to clear strict firewalls), the public cloud-hosted version operates in a **Mock Evaluation Mode** utilizing cached JSON payloads for standard TTB sample profiles. 
 
-To experience the live, fully interactive **< 2.5-second local CPU inference pipeline** processing brand new, un-cached label images in real-time, please follow the local **Setup & Running Instructions** above.
+To experience the live, fully interactive local CPU inference pipeline processing brand new, un-cached label images in real-time, please follow the local **Setup & Running Instructions** above.
